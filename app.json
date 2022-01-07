@@ -1,6 +1,6 @@
 {
-      "name": "KURUMI",
-      "description": "An Anime themed Telegram group management bot.",
+      "name": "THE DUMPER BOT",
+      "description": "Official group management bot of the DUMPERNETWORK.",
       "keywords": [
          "telegram",
          "anime",
@@ -8,7 +8,7 @@
          "manager",
          "KURUMI"
       ],   
-   "repository": "https://github.com/Hirojazz/KURUMIBOT",
+   "repository": "https://github.com/GreatKaran/kurumi",
    "addons": [
       {
          "options": {
