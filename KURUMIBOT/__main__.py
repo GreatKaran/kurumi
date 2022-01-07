@@ -56,7 +56,7 @@ I am the official group management bot of the DUMPER NETWORK. I will use all my 
 """
 
 HELP_STRINGS = """
-KURUMI is here! 
+I am here! 
 I Use My Powers To Help Admins To Manage Their Groups! 
 *Main* commands available :
  • /help: PM's you this message.
